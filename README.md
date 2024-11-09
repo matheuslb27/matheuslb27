@@ -10,7 +10,7 @@ Bem-vindo ao meu perfil no GitHub! Sou estudante de sistemas de informação com
 
 Aqui estão algumas das principais tecnologias e ferramentas que utilizo:
 
-- **Linguagens de Programação:** Python, C#, JavaScript
+- **Linguagens de Programação:** [![Python] Python, C#, JavaScript
 - **Desenvolvimento Web:** HTML, CSS, JavaScript
 - **Banco de Dados:** SQL
 - **Outras Ferramentas e Tecnologias:** Git, GitHub, VS Code
