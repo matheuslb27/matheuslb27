@@ -28,6 +28,19 @@ Aqui estão algumas das principais tecnologias e ferramentas que estão sendo ut
 
 ---
 
+## 📚 Bibliotecas e Frameworks
+
+Além das tecnologias principais, também tenho experiência com as seguintes bibliotecas e frameworks:
+
+- **Python:**  
+  <img align="center" alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img align="center" alt="Scrapy" src="https://img.shields.io/badge/Scrapy-5A29E4?style=for-the-badge&logo=scrapy&logoColor=white"/>
+
+- **C#:**  
+  <img align="center" alt="Windows Forms" src="https://img.shields.io/badge/Windows%20Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+
+---
+
 
 ## 📫 Como entrar em contato
 
