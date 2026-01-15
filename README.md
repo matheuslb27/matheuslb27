@@ -1,10 +1,6 @@
 # 👋 Olá, eu sou Matheus Lopes Barboza!
 
 Bem-vindo ao meu perfil no GitHub! Sou estudante de sistemas de informação com experiência em diversas linguagens e tecnologias, sempre buscando aprender e aprimorar minhas habilidades para construir soluções eficientes e inovadoras.
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheuslb27&show_icons=true&theme=tokyonight&rank_icon=github" alt="Passos Stats" /> 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslb27&layout=compact&theme=tokyonight&hide=php">
   
   <!-- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=passos-gabriel&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" /> -->
 </div> 
